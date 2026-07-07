@@ -128,12 +128,12 @@ export default function App() {
           <span className="text-slate-400">Brought to you by</span>
           <a href="#" className="hover:text-indigo-600 font-medium transition-colors flex items-center gap-2">
             <Facebook className="w-4 h-4" />
-            Facebook Page
+            EJU Physics
           </a>
         </div>
         <a href="mailto:email@example.com" className="hover:text-indigo-600 font-medium transition-colors flex items-center gap-2">
           <Mail className="w-4 h-4" />
-          Email
+          lavimonyyt.2001@gmail.com
         </a>
       </div>
 

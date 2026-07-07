@@ -24,6 +24,7 @@ export default function PracticeView({ lang, mode, subtopicId, onBack, onProgres
       list = shuffleArray(list).slice(0, 20); // Random 20 for mixed
     } else {
       list = (PROBLEMS[subtopicId] || []).map(p => ({ ...p, subtopicId }));
+      list = shuffleArray(list);
     }
     
     // Shuffle choices for each question
