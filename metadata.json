@@ -1,0 +1,6 @@
+{
+  "name": "EJU Physics Practice",
+  "description": "A responsive practice application for EJU Physics syllabus mapping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

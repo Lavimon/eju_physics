@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+:root {
+  --paper: #EEF2F6;
+  --paper-deep: #E4EBF2;
+  --grid-line: #CFDBE7;
+  --ink: #0f172a;
+  --ink-soft: #64748b;
+  --ink-faint: #94a3b8;
+  --indigo: #4f46e5;
+  --indigo-deep: #4338ca;
+  --red-pen: #e11d48;
+  --red-pen-deep: #be123c;
+  --chalk: #E7A90D;
+  --card: #FFFFFF;
+  --card-line: #e2e8f0;
+}
+
+svg {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.font-eju {
+  font-family: "Century", "MS Mincho", "ＭＳ 明朝", "Hiragino Mincho ProN", serif;
+}
